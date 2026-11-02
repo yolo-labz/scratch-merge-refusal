@@ -8,4 +8,4 @@ jobs:
   p:
     runs-on: ubuntu-latest
     steps:
-      - run: echo attest
+      - run: echo attest-probe
