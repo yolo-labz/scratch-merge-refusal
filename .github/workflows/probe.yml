@@ -4,4 +4,4 @@ jobs:
   p:
     runs-on: ubuntu-latest
     steps:
-      - run: echo base
+      - run: echo probe
